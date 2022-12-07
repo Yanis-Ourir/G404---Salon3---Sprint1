@@ -1,0 +1,12 @@
+#hero-header {
+    background-color: #dcdcdc;
+}
+
+#hero-header a {
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-top: 0.5rem;
+    font-size: 1.2rem;
+    padding-bottom: 3rem;
+    
+}
