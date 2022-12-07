@@ -1,3 +1,8 @@
+body {
+    
+}
+
+
 #hero-header {
     background-color: #dcdcdc;
 }
@@ -14,4 +19,12 @@
 
 #feature {
     background-color: #dcdcdc;
+}
+
+.lien-footer {
+    padding-top: 3rem;
+}
+
+#footer {
+    overflow: hidden;
 }
